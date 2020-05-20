@@ -8,7 +8,7 @@ by [Jamie Maxwell](https://github.com/Jamie66m), [Peter Gilbert](https://github.
   <img height=380 alt="home" src="./images/Booked-up.jpg">
 </p>
 
-## Overview
+## Overview1
 
 Booked Up is the third project that we completed during our Software Engineering Immersive at General Assembly. It is a MERN stack web application allowing book lovers to search through thousands of books, create their own library and discuss these books in virtual book clubs. 
 
